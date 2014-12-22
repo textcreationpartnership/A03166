@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A breefe balet touching the traytorous takynge of Scarborow CastellHeywood, John, 1497?-1580?1557App
+
+1. ❧A breefe balet touching the traytorous takynge of Scarborow Castell.
+
 #####Back#####
-A breefe balet touching the traytorous takynge of Scarborow CastellHeywood, John, 1497?-1580?1557App
+Imprinted at London in fleetestrete by Tho. Powell. Cum priuilegio ad imprimendum solum.
 **Types of content**
 
   * There are 84 **verse** lines!
